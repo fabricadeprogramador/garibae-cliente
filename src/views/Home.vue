@@ -1,6 +1,6 @@
 <template>
   <div class="home">
- <h1>GARIBAÊ TELA INICIAL</h1>
+ <h1>GARIBAÊ TELA INICIAL testsasase</h1>
 <div>
 
 </div>  promoçẽs <div>
